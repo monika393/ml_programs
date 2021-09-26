@@ -13,3 +13,4 @@ Important Git Hub Links for ML
 * https://github.com/target/matrixprofile-ts
 * https://escholarship.org/content/qt2x4419fp/qt2x4419fp_noSplash_63b12fd93e27078e9e7c61b5825dbae9.pdf
 * https://pycaret.org/remove-outliers/
+* https://github.com/numenta/NAB(Anamoly detection streaming data)

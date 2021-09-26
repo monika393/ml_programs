@@ -6,3 +6,4 @@ Important Git Hub Links for ML
 * https://github.com/chaoyanghe/Awesome-Federated-Learning
 * https://github.com/pytorch/opacus
 * https://github.com/tensorflow/privacy
+* https://medium.com/learningdatascience/anomaly-detection-techniques-in-python-50f650c75aaf

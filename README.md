@@ -14,3 +14,5 @@ Important Git Hub Links for ML
 * https://escholarship.org/content/qt2x4419fp/qt2x4419fp_noSplash_63b12fd93e27078e9e7c61b5825dbae9.pdf
 * https://pycaret.org/remove-outliers/
 * https://github.com/numenta/NAB(Anamoly detection streaming data)
+* https://towardsdatascience.com/auto-sklearn-scikit-learn-on-steroids-42abd4680e94
+* https://trainindata.medium.com/feature-engine-a-new-open-source-python-package-for-feature-engineering-29a0ab88ea7c

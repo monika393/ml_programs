@@ -17,3 +17,4 @@ Important Git Hub Links for ML
 * https://towardsdatascience.com/auto-sklearn-scikit-learn-on-steroids-42abd4680e94
 * https://trainindata.medium.com/feature-engine-a-new-open-source-python-package-for-feature-engineering-29a0ab88ea7c
 * https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/?utm_source=outlierdetectionpyod&utm_medium=blog
+* https://github.com/rsteca/sklearn-deap
